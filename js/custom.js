@@ -229,7 +229,7 @@ $(function() {
   // --------------------------------------------- //
   $('.notify-form').ajaxChimp({
     callback: mailchimpCallback,
-    url: 'https://besaba.us10.list-manage.com/subscribe/post?u=e8d650c0df90e716c22ae4778&amp;id=54a7906900'
+    url: 'https://movie.us21.list-manage.com/subscribe/post?u=e0cad6cbc0b37df822153caba&amp;id=e94e30b218&amp;f_id=00d2d8e1f0'
   });
 
   function mailchimpCallback(resp) {
